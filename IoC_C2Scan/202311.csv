@@ -1,0 +1,10 @@
+﻿c2_ip,c2_port,c2_protocol,gobrat_distribution,distribution_port,distribution_version
+38.54.84.238,80,gob_based_unique,enable,58888,2.0.7.3
+38.54.85.246,80,gob_based_unique,enable,58888,2.0.6.6
+38.54.111.251,80,gob_based_unique,enable,58888,2.0.7.3
+38.60.221.39,80,gob_based_unique,disable,-,-
+38.60.221.63,80,gob_based_unique,disable,-,-
+38.60.221.174,80,gob_based_unique,disable,-,-
+38.180.66.147,80,gob_based_unique,disable,-,-
+149.127.133.210,80,gob_based_unique,enable,58888,2.0.6.6
+
