@@ -27,10 +27,7 @@ https://github.com/JPCERTCC/GobRAT-Analysis/tree/main/YaraRule
 
 ## Slide
 - AVAR2023
-    - TBA
-
-## Blog
-- TBA
+    - https://github.com/JPCERTCC/GobRAT-Analysis/blob/main/Slide/AVAR2023.pdf
 
 ## LICENSE
 Please read the [LICENSE](https://github.com/JPCERTCC/aa-tools/blob/master/LICENSE.txt) page.
